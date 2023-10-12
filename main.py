@@ -6,7 +6,7 @@ page_bg_img = '''
 <style>
 
 [ data-testid="stAppViewContainer"] {
-background-image: url("https://images.unsplash.com/photo-1518655048521-f130df041f66?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3540&q=80");
+background-image: url("https://img.freepik.com/free-photo/office-supplies-with-keyboard-gray-desk_23-2148052624.jpg?w=2000&t=st=1697123051~exp=1697123651~hmac=b1e4ef7975df9d6b938d1102f394f492a74c576b73b28d4ee7d8fd6e0b5966a6");
 
 background-size: cover;
 }
