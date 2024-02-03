@@ -1,8 +1,6 @@
 from langchain_helper import generate_team_name
 import streamlit as st
 
-st.markdown(page_bg_img, unsafe_allow_html=True)
-
 st.title("Hackathon Team Name Generator")
 st.subheader("Save precious time and get hacking faster!")
 
