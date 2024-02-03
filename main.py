@@ -14,5 +14,3 @@ if st.button("Generate 20 Team Names"):
 
     st.subheader("Here are some awesome team names:")
     st.write(team_name)
-
-
